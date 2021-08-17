@@ -2,9 +2,9 @@ package com.company.Lesson5;
 
 public class Test5 {
     String foobar;
-    int barfoo;
+    public int barfoo;
 
-    Test5(String foo){ //конструктор
+    public Test5(String foo){ //конструктор
         //имя конструктора всегда совпадает с именем класса
         //конструктор Default если не объявляем -- Test6(){} -- создаётся компилятором
         //конструктор User defined мы сами определяем
