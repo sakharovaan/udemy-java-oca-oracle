@@ -1,6 +1,6 @@
 package com.company.Lesson10;
 import com.company.Lesson5.Test5;
-import com.*;
+//import com.*;
 
 //если в импорте одинаковые имена, то нужно использовать полные имена
 //всегда неявно импортируются пакеты из Java.lang.*
