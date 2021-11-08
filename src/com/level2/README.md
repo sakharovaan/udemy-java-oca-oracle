@@ -3,3 +3,4 @@
 3. collections
 4. nested class
 5. lambda interfaces, predicate/supplier/consumer/function
+6. stream и его методы
