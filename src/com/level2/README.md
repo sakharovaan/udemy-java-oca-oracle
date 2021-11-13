@@ -4,3 +4,4 @@
 4. nested class
 5. lambda interfaces, predicate/supplier/consumer/function
 6. stream и его методы
+7. многопоточность (потоки; b-синхронизация; c-wait/notify)
