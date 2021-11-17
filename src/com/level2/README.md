@@ -15,3 +15,4 @@
 8. работа с файлами
 * io,сериализация,RandomAccessFile,File
 * b-nio:channel/buffer
+* c-nio:Path,Files,walkFileTree,FileVisitor
