@@ -16,3 +16,5 @@
 * io,сериализация,RandomAccessFile,File
 * b-nio:channel/buffer
 * c-nio:Path,Files,walkFileTree,FileVisitor
+9. regex/printf
+10. enum/Scanner/рефлексия/аннотации
